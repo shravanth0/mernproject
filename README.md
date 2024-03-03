@@ -1,2 +1,2 @@
-# mernproject
-react project  using react and vite
+# Practice Repo
+It contain the practice material of full stack
